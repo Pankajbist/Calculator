@@ -30,6 +30,7 @@ function showHistory() {
     history.style.display = 'block';
 }
 
+
 historybutton.addEventListener('click', showHistory);
 
 function hide(){
