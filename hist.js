@@ -35,7 +35,7 @@ historybutton.addEventListener('click', showHistory);
 function hide(){
     history.style.display = 'none';
     bar1.style.display = 'none';
-    bar2.style.display = 'none';
+    bar2.style.display = 'none'; 
 }
 
 bar1.addEventListener('click', hide);
