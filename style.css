@@ -155,6 +155,7 @@ a:hover{
     transform: rotate(135deg);
 }
 
+
 @media (orientation: landscape) and (max-height: 500px) {
     #turn {
         width: 100vw;
