@@ -151,7 +151,6 @@ a:hover{
     cursor: pointer;
     display: none;
 }
-
 #bar2{
     transform: rotate(135deg);
 }
